@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "name": "Viral Kohli",
+    "country": "India",
+    "image": "../assets/players/virat_kohli.jpeg",
+    "role": "Batsman",
+    "battingType": "Right-Hand Bat",
+    "bowlingType": "Off-spin",
+    "price": 1500000
+  },
+  {
+    "id": 2,
+    "name": "Darrell Steward",
+    "country": "India",
+    "image": "../assets/players/darrell_steward.jpeg",
+    "role": "All-Rounder",
+    "battingType": "Left-Hand Bat",
+    "bowlingType": "Medium Pace",
+    "price": 1200000
+  },
+  
+  {
+    "id": 3,
+    "name": "Alex Turner",
+    "country": "England",
+    "image": "../assets/players/darrell_steward.jpeg",
+    "role": "Batsman",
+    "battingType": "Right-Hand Bat",
+    "bowlingType": "Right-Arm Off-Spin",
+    "price": 1800000
+},
+
+{
+    "id": 4,
+    "name": "Ben Stokes",
+    "country": "England",
+    "image": "../assets/players/darrell_steward.jpeg",
+    "role": "All-Rounder",
+    "battingType": "Left-Hand Bat",
+    "bowlingType": "Left-Arm Medium",
+    "price": 2500000
+}
+,
+{
+    "id": 5,
+    "name": "David Warner",
+    "country": "Australia",
+    "image": "../assets/players/darrell_steward.jpeg",
+    "role": "Batsman",
+    "battingType": "Left-Hand Bat",
+    "bowlingType": "Right-Arm Off-Spin",
+    "price": 2000000
+}
+,
+{
+    "id": 6,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "image": "../assets/players/darrell_steward.jpeg",
+    "role": "Bowler",
+    "battingType": "Right-Hand Bat",
+    "bowlingType": "Right-Arm Fast",
+    "price": 2200000
+}
+
+ 
+
+ 
+ 
+]
